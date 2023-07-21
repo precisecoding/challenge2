@@ -25,10 +25,12 @@ My project stands out beause it is unique to me and my personal work.
 
 ![Challenge 2 preview](./assets/images/preview.png)
 ###### You can find a link to the project below.
-https://github.com/precisecoding/challenge2
 
+Link to repo:
 https://github.com/precisecoding/challenge2.git 
 
+Link to deployed URL:
+https://precisecoding.github.io/challenge2/ 
 ###### This site was built using github pages.
 https://pages.github.com/
 
