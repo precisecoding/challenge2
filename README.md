@@ -23,8 +23,11 @@ My project stands out beause it is unique to me and my personal work.
 
 ####### You can view a mock up below:
 
-
+![Challenge 2 preview](./assets/images/preview.png)
 ######## You can find a link to the project below.
+https://github.com/precisecoding/challenge2
+
+https://github.com/precisecoding/challenge2.git 
 
 ######### This site was built using github pages.
 https://pages.github.com/
